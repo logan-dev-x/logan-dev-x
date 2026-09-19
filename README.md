@@ -1,101 +1,159 @@
-# Hi, I'm Natan 👋
+# Logan
 
-I’m a Developer passionate about web. I enjoy building clean, impactful products, solving real-world problems, and continuously learning new technologies.
+### Backend Developer · Go & Typescript
 
-- 🔭 Currently working on: Backend
-- 🌱 Learning: Golang
-- 💡 Interested in: AI, web dev, compilers, functional programming
-- 🎯 Goals: Be the best that a could
-- 📫 Reach me at: natan005@proton.me
+I build backend applications, APIs and automation tools with a focus on clean code, testing, maintainability and practical problem solving.
+
+Currently focused on **Go and Typescript**, while deepening my knowledge of software architecture, databases, testing and systems programming.
+
+<p align="left">
+  <a href="https://github.com/logan-dev-x">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/nataniel-dos-santos-costa-1239182">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+---
 
 ## About Me
 
-I love turning ideas into meaningful digital experiences. From designing scalable systems to crafting smooth user interfaces, I enjoy working across the stack and collaborating with people who care about thoughtful engineering.
+* 💻 Focused on **backend development**
+* 🐹 Developing backend tools and services with **Go**
+* 🗄️ Working with relational databases and persistence
+* 🧪 Interested in **testing, TDD and maintainable software**
+* 🐧 Linux user
+* 🐳 Exploring containerized development with **Docker**
+* 📚 Continuously studying software engineering and computer science
+* 💼 Open to **CLT and freelance opportunities**
+
+---
 
 ## Tech Stack
 
 ### Languages
-- JavaScript / TypeScript
-- Go
-- Elixir
 
-### Frontend
-- React
-- Next.js
-- Tailwind CSS
-- [HTML / CSS]
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,go,rust,js,html,css" alt="Languages">
+</p>
 
-### Backend
-- Node.js
-- Express / NestJS
-- REST
-- PostgreSQL / MySQL / SQLite
+### Backend & Databases
 
-### Tools & Platforms
-- Docker
-- [AWS / Azure / GCP]
-- [GitHub Actions]
-- [Figma]
-- Linux
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,go,postgres,sqlite,docker" alt="Backend and databases">
+</p>
 
-## Featured Projects
+### Tools & Environment
 
-### [Project 1 Name]
-A short, impactful description of what it does and the problem it solves.
-
-- Tech: [list]
-- Live Demo: [link]
-- Repo: [link]
-
-### [Project 2 Name]
-A second project that showcases a different area of your skill set.
-
-- Tech: [list]
-- Live Demo: [link]
-- Repo: [link]
-
-### [Project 3 Name]
-Another strong example of your work.
-
-- Tech: [list]
-- Live Demo: [link]
-- Repo: [link]
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=logan-dev-x&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=logan-dev-x&layout=compact&theme=tokyonight)
-
-## What I’m Building
-
-- [Project / initiative 1]
-- [Project / initiative 2]
-- [Project / initiative 3]
-
-## Hobbies & Outside of Work
-
-- [Reading / hiking / gaming / photography]
-- [Open source contributions]
-- [Building side projects]
-- [Learning about product design and UX]
-
-## Connect With Me
-
-- Portfolio: [your portfolio link]
-- LinkedIn: [your LinkedIn link]
-- Twitter/X: [your social link]
-- Email: [your email]
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,neovim" alt="Tools">
+</p>
 
 ---
 
-> “Code is not just logic — it’s a way to create value, solve problems, and improve people’s lives.”
+## Contribution Activity
 
-Thanks for visiting my profile! 😊
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=logan-dev-x&theme=github-dark-blue&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</p>
 
-To make this truly yours, send me these details and I’ll personalize it:
-- Your profession or current role
-- Your top skills and technologies
-- Your favorite projects or repositories
-- Your social links (LinkedIn, portfolio, email, etc.)
-- Any vibe you want: professional, creative, minimal, modern, bold, etc.
+---
+
+## Featured Projects
+
+### 📚 Book Library API
+
+A backend API for managing books, built as a practical backend project with an emphasis on organization, persistence and API design.
+
+**Stack:** Go · SQLite · REST API
+
+[View repository →](https://github.com/logan-dev-x/book-library-api)
+
+---
+
+### 🎵 Based Songs Bot
+
+A Telegram bot that processes audio and converts songs from 440 Hz to 432 Hz using FFmpeg and audio processing tools.
+
+The project includes a CLI application and Telegram interface, with Docker-based deployment.
+
+**Stack:** Go · FFmpeg · Telegram · Docker
+
+[View repository →](https://github.com/logan-dev-x/based-songs-bot)
+
+---
+
+## Currently Learning
+
+### Go
+
+* Backend development
+* HTTP services
+* Concurrency
+* CLI applications
+* Testing
+* Software architecture
+
+### Computer Science
+
+* Compilers
+* Programming languages
+* Data structures
+* Algorithms
+* Operating systems
+* Systems programming
+
+---
+
+## Development Principles
+
+```text
+Clean Code
+     ↓
+Understandable Software
+     ↓
+Automated Tests
+     ↓
+Reliable Systems
+     ↓
+Continuous Improvement
+```
+
+I value software that is **simple to understand, easy to test and practical to maintain**.
+
+---
+
+## What I'm Looking For
+
+I'm interested in opportunities where I can contribute to real software projects while continuing to grow as a backend developer.
+
+**Open to:**
+
+* Backend Developer positions
+* Junior Developer positions
+* typescript / Go opportunities
+* CLT
+* Freelance projects
+
+---
+
+## Let's Connect
+
+<p>
+  <a href="https://github.com/logan-dev-x">
+    <img src="https://img.shields.io/badge/GitHub-logan--dev--x-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/nataniel-dos-santos-costa-1239182">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Building. Learning. Improving.</sub>
+</p>
