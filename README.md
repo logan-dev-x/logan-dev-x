@@ -1,6 +1,14 @@
 # Logan
 
 ### Backend Developer · Go & Typescript
+<p>
+  <a href="https://github.com/logan-dev-x">
+    <img src="https://img.shields.io/badge/GitHub-logan--dev--x-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/nataniel-dos-santos-costa-1239182">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
 
 I build backend applications, APIs and automation tools with a focus on clean code, testing, maintainability and practical problem solving.
 
@@ -47,7 +55,7 @@ Currently focused on **Go and Typescript**, while deepening my knowledge of soft
 ### Tools & Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,neovim" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,neovim,arch" alt="Tools">
 </p>
 
 ---
@@ -74,19 +82,6 @@ I'm interested in opportunities where I can contribute to real software projects
 * typescript / Go opportunities
 * CLT
 * Freelance projects
-
----
-
-## Let's Connect
-
-<p>
-  <a href="https://github.com/logan-dev-x">
-    <img src="https://img.shields.io/badge/GitHub-logan--dev--x-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/nataniel-dos-santos-costa-1239182">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-</p>
 
 ---
 
