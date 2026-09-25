@@ -1,18 +1,6 @@
 # Logan
 
 ### Backend Developer · Go & Typescript
-<p>
-  <a href="https://github.com/logan-dev-x">
-    <img src="https://img.shields.io/badge/GitHub-logan--dev--x-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/nataniel-dos-santos-costa-1239182">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-</p>
-
-I build backend applications, APIs and automation tools with a focus on clean code, testing, maintainability and practical problem solving.
-
-Currently focused on **Go and Typescript**, while deepening my knowledge of software architecture, databases, testing and systems programming.
 
 <p align="left">
   <a href="https://github.com/logan-dev-x">
@@ -22,6 +10,10 @@ Currently focused on **Go and Typescript**, while deepening my knowledge of soft
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
+I build backend applications, APIs and automation tools with a focus on clean code, testing, maintainability and practical problem solving.
+
+Currently focused on **Go and Typescript**, while deepening my knowledge of software architecture, databases, testing and systems programming.
 
 ---
 
@@ -42,20 +34,26 @@ Currently focused on **Go and Typescript**, while deepening my knowledge of soft
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=typescript,go,rust,js,html,css" alt="Languages">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,rust,typescript" alt="Languages">
+</p>
+
+### Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs" alt="Frameworks">
 </p>
 
 ### Backend & Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=typescript,go,postgres,sqlite,docker" alt="Backend and databases">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bun,go,actix,postgres,sqlite,docker" alt="Backend and databases">
 </p>
 
 ### Tools & Environment
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,neovim,arch" alt="Tools">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,neovim,arch,postman" alt="Tools">
 </p>
 
 ---
