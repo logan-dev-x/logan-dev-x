@@ -17,19 +17,6 @@ Currently focused on **Go and Typescript**, while deepening my knowledge of soft
 
 ---
 
-## About Me
-
-* 💻 Focused on **backend development**
-* 🐹 Developing backend tools and services with **Go**
-* 🗄️ Working with relational databases and persistence
-* 🧪 Interested in **testing, TDD and maintainable software**
-* 🐧 Linux user
-* 🐳 Exploring containerized development with **Docker**
-* 📚 Continuously studying software engineering and computer science
-* 💼 Open to **CLT and freelance opportunities**
-
----
-
 ## Tech Stack
 
 ### Languages
